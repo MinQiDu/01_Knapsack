@@ -1,9 +1,9 @@
 # Implement Tabu Search Algorithm to Solve 0/1 Knapsack Problem
 
 ## ( I ) Introduction
-- **Language**: C++
-- **Metaheuristic Algorithm**: Tabu Search
-- **Problem**: 0/1 Knapsack Problem
+- **Programming language:** C++
+- **Metaheuristic Algorithm:** Tabu Search
+- **Problem:** 0/1 Knapsack Problem
 
 ## ( II ) Main Functionality
 - `void tabu_ks(int item, int capacity, int profit[], int weight[], int tabu_size, int tweak_c, queue<string> &L, set<string> &L_set, int itr)`  
