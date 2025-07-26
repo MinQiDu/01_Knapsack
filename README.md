@@ -38,7 +38,7 @@
 
 
 ### Compile
-#### Using VSCode
+#### VSCode
 1. Open PowerShell or Windows CMD
 2. Navigate to the correct folder
 3. Compile with:
